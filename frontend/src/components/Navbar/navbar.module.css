@@ -1,0 +1,36 @@
+.nav {
+  background-color: #2e0052;
+  width: 100%;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 50px;
+  align-items: center;
+  height: 63px;
+}
+
+.phone,
+.shop {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.phone img {
+  width: 33px;
+  height: 33px;
+}
+
+.phone p {
+  font-size: 18px;
+}
+
+.divider {
+  width: 2px;
+  height: 30px;
+  background-color: #fff;
+}
+
+.logout {
+  font-size: 25px;
+}

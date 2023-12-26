@@ -1,0 +1,50 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 42px;
+}
+
+.logocontainer {
+  display: flex;
+  gap: 10px;
+}
+
+.name {
+  display: flex;
+  gap: 20px;
+}
+
+.name > :first-child {
+  font-size: 44px;
+}
+
+.name > :last-child {
+  font-size: 22px;
+}
+
+.logocontainer img {
+  width: 63px;
+  height: 63px;
+}
+
+.cart button {
+  border-radius: 47px;
+  background-color: #1d7000;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  width: 189px;
+  height: 52px;
+}
+
+.cart button img {
+  width: 27px;
+  height: 27px;
+}
+
+.cart button p {
+  font-size: 22px;
+  font-weight: 400;
+}

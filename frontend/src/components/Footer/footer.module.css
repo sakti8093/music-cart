@@ -1,0 +1,9 @@
+.footercss {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #2e0052;
+  height: 87px;
+  font-size: 26px;
+  color: #fff;
+}

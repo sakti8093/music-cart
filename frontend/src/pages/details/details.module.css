@@ -1,0 +1,84 @@
+.backbutton {
+  width: 281px;
+  height: 59px;
+  border-radius: 14px;
+  background-color: #2e0052;
+  color: #fff;
+  font-size: 28.125px;
+  border: none;
+  margin-top: 74px;
+}
+
+.title {
+  font-size: 34px;
+
+  font-weight: 600;
+  line-height: 42px;
+}
+
+.container {
+  margin-top: 60px;
+}
+
+.herocontainer {
+  margin-top: 60px;
+  display: flex;
+  gap: 40px;
+}
+
+.herocontainer img {
+  width: 840px;
+  height: 824px;
+  border-radius: 18px;
+  border: 6px solid #2e0052;
+}
+
+.detailcontainer > :first-child {
+  font-size: 52px;
+  font-weight: 600;
+}
+
+.price {
+  font-size: 34px;
+  margin-top: 20px;
+}
+
+.name {
+  font-size: 34px;
+  font-weight: 400;
+  margin-top: 13px;
+}
+
+.description {
+  font-size: 28px;
+  font-weight: 400;
+}
+
+.list {
+  padding-left: 30px;
+}
+
+.brand {
+  font-size: 33.972px;
+  margin-top: 20px;
+  font-weight: 400;
+}
+
+.available {
+  font-size: 33.972px;
+  margin-top: 20px;
+  font-weight: 400;
+}
+
+.available span {
+  font-weight: 500;
+}
+
+.brand span {
+  font-weight: 500;
+}
+
+.color {
+  font-size: 34px;
+  margin-top: 13px;
+}

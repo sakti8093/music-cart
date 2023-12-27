@@ -60,9 +60,6 @@ const Login = () => {
       <button onClick={() => navigate("/signup")} className={logincss.btn}>
         Create your Musicart account
       </button>
-      <div className={logincss.lastContainer}>
-        Musicart | All rights reserved
-      </div>
     </div>
   );
 };
